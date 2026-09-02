@@ -1,0 +1,6 @@
+{
+    "require": {
+        "telerivet/telerivet-php-client": "dev-master",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
